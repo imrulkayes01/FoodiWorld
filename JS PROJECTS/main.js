@@ -7,8 +7,7 @@ const data = {
       strMealAlternate: null,
       strCategory: "Pork",
       strArea: "British",
-      strInstructions:
-        "Preheat the oven to 200°C/fan180°C/gas 6. Fry sausages in a non-stick pan until browned.\nDrizzle vegetable oil in a 30cm x 25cm x 6cm deep roasting tray and heat in the oven for 5 minutes.\nPut the plain flour in a bowl, crack in the medium free-range eggs, then stir in the grated horseradish. Gradually beat in the semi-skimmed milk. Season.\nPut the sausages into the hot roasting tray and pour over the batter. Top with cherry tomatoes on the vine and cook for 30 minutes until puffed and golden.",
+      strInstructions: "Instructions for another meal.",
       strMealThumb:
         "https://www.deliciousmagazine.co.uk/wp-content/uploads/2024/09/2024D117_ITALIANSEO_POMODORO_2_X-1-768x960.jpg",
       strTags: null,
