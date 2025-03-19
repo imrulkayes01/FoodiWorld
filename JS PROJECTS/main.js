@@ -117,7 +117,7 @@ const data = {
     },
     {
       idMeal: "52823",
-      strMeal: "Gamberi alla busara",
+      strMeal: "Gamberi alla",
       strMealAlternate: null,
       strCategory: "Chicken",
       strArea: "American",
@@ -174,7 +174,7 @@ const data = {
     },
     {
       idMeal: "52823",
-      strMeal: "Toasted pasta with smoky tomato sauce",
+      strMeal: "Toasted pasta",
       strMealAlternate: null,
       strCategory: "Chicken",
       strArea: "American",
