@@ -247,6 +247,10 @@
     max-width: 90%;
   }
 }
+#four {
+  padding-bottom: 1rem;
+}
+
 @media (max-width: 620px) {
   #four {
     max-width: 90%;
@@ -259,8 +263,7 @@
   text-align: center;
   padding: 20px 0;
   font-family: Arial, sans-serif;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-radius: 10px;
 }
 
 .fast-footer .footer-logo {
